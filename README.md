@@ -9,7 +9,7 @@ This task implements a Startup Evaluation Engine that generates composite scores
 ## Project Structure
 
 ```
-startup-evaluation-engine/
+startup-health-scoring/
 ├── notebooks/
 │   └── Startup-Health-Scoring.ipynb             
 ├── outputs/
@@ -21,7 +21,7 @@ startup-evaluation-engine/
 │   ├── Performance Tier Distribution.png
 │   ├── Score Distribution Histogram.png
 │   └── Top 20 Startup Sorted Scores.png
-├── datasets/
+├── Datasets/
 │   └── Startup_Scoring_Dataset.csv              
 └── README.md                                    
 ```
