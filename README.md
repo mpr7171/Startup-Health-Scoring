@@ -21,7 +21,7 @@ startup-evaluation-engine/
 │   ├── Performance Tier Distribution.png
 │   ├── Score Distribution Histogram.png
 │   └── Top 20 Startup Sorted Scores.png
-├── data/
+├── datasets/
 │   └── Startup_Scoring_Dataset.csv              
 └── README.md                                    
 ```
@@ -162,7 +162,7 @@ Implemented four ML models to validate the scoring methodology:
 
 ### Suggested Enhancements:
 - **Growth rate metrics**: Incorporating month-over-month user and revenue growth
-- **Industry-specific weights**: Adjusting scoring based on startup vertical (B2B vs B2C)
+- **Industry-specific weights**: Adjusting scoring based on startup vertical
 - **Dynamic scoring**: Implementing time-based weight adjustments for different startup stages
 - **External factors**: Including market conditions and competitive landscape
 - **Qualitative metrics**: Adding founder background, product uniqueness, and strategic partnerships
